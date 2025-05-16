@@ -11,6 +11,8 @@
 ## Nodes
 - [kubectl Node Debug](https://kubernetes.io/docs/tasks/debug/debug-cluster/kubectl-node-debug/)
 - [Node Not Ready](https://killercoda.com/sachin/course/CKA/node-notready)
+- [Control Plane Troubleshooting Video](https://www.youtube.com/watch?v=z6XjbuRl6LE)
+- [Worker Node Troubleshooting Video](https://www.youtube.com/watch?v=U6PRwv7dJ-U)
 
 ## Container Runtime
 - [crictl Debugging](https://kubernetes.io/docs/tasks/debug/debug-cluster/crictl/)
@@ -28,7 +30,3 @@
 ## Kube Controller Manager
 - [Controller Manager Misconfigured](https://killercoda.com/killer-shell-cka/scenario/kube-controller-manager-misconfigured)
 - [Controller Manager Issues](https://killercoda.com/sachin/course/CKA/controller-manager-issue)
-
-## General Troubleshooting
-- [Control Plane Troubleshooting Video](https://www.youtube.com/watch?v=z6XjbuRl6LE)
-- [Worker Node Troubleshooting Video](https://www.youtube.com/watch?v=U6PRwv7dJ-U)
