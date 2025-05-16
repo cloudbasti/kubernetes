@@ -23,7 +23,12 @@ https://killercoda.com/killer-shell-cka/scenario/apiserver-misconfigured
 
 KUBE-CONTROLLER-MANAGER:
 https://killercoda.com/killer-shell-cka/scenario/kube-controller-manager-misconfigured
+https://killercoda.com/sachin/course/CKA/controller-manager-issue
 
 KUBECTL: 
 https://killercoda.com/sachin/course/CKA/kubectl-issue
+https://killercoda.com/sachin/course/CKA/node-port-issue
+
+NODES: 
+https://killercoda.com/sachin/course/CKA/node-notready
 
