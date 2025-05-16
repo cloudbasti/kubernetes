@@ -12,5 +12,18 @@ crictl:
 https://kubernetes.io/docs/tasks/debug/debug-cluster/crictl/
 
 
-Network Policies: 
-kubectl exec -it frontend -- curl -m 5 <BACKEND-POD-IP> (go into frontend pod and see if traffic works to backend pod)
+KUBELET: 
+https://www.youtube.com/watch?v=3WFPciGE0Wg
+https://killercoda.com/killer-shell-cka/scenario/kubelet-misconfigured
+https://killercoda.com/sachin/course/CKA/kubelet-issue
+
+API-SERVER: 
+https://killercoda.com/killer-shell-cka/scenario/apiserver-crash
+https://killercoda.com/killer-shell-cka/scenario/apiserver-misconfigured
+
+KUBE-CONTROLLER-MANAGER:
+https://killercoda.com/killer-shell-cka/scenario/kube-controller-manager-misconfigured
+
+KUBECTL: 
+https://killercoda.com/sachin/course/CKA/kubectl-issue
+
