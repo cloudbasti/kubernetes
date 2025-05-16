@@ -1,45 +1,34 @@
-CNI:
-https://kubernetes.io/docs/tasks/administer-cluster/migrating-from-dockershim/troubleshooting-cni-plugin-related-errors/
+# Kubernetes Troubleshooting Resources
 
-kubectl: 
-https://kubernetes.io/docs/tasks/debug/debug-cluster/troubleshoot-kubectl/
+## Container Networking
+- [CNI: Troubleshooting CNI Plugin Related Errors](https://kubernetes.io/docs/tasks/administer-cluster/migrating-from-dockershim/troubleshooting-cni-plugin-related-errors/)
 
-NODES:
-kubectl debug node
-https://kubernetes.io/docs/tasks/debug/debug-cluster/kubectl-node-debug/
+## kubectl
+- [Troubleshooting kubectl](https://kubernetes.io/docs/tasks/debug/debug-cluster/troubleshoot-kubectl/)
+- [kubectl Issues](https://killercoda.com/sachin/course/CKA/kubectl-issue)
+- [Node Port Issues](https://killercoda.com/sachin/course/CKA/node-port-issue)
 
-crictl:
-https://kubernetes.io/docs/tasks/debug/debug-cluster/crictl/
+## Nodes
+- [kubectl Node Debug](https://kubernetes.io/docs/tasks/debug/debug-cluster/kubectl-node-debug/)
+- [Node Not Ready](https://killercoda.com/sachin/course/CKA/node-notready)
 
+## Container Runtime
+- [crictl Debugging](https://kubernetes.io/docs/tasks/debug/debug-cluster/crictl/)
 
+## Kubelet
+- [Kubelet Maintenance](https://killercoda.com/chadmcrowell/course/cka/upgrade-kubelet)
+- [Kubelet Troubleshooting Video](https://www.youtube.com/watch?v=3WFPciGE0Wg)
+- [Kubelet Misconfigured](https://killercoda.com/killer-shell-cka/scenario/kubelet-misconfigured)
+- [Kubelet Issues](https://killercoda.com/sachin/course/CKA/kubelet-issue)
 
-KUBELET:
-Maintenance: 
-https://killercoda.com/chadmcrowell/course/cka/upgrade-kubelet
+## API Server
+- [API Server Crash](https://killercoda.com/killer-shell-cka/scenario/apiserver-crash)
+- [API Server Misconfigured](https://killercoda.com/killer-shell-cka/scenario/apiserver-misconfigured)
 
-Troubleshoot:
-https://www.youtube.com/watch?v=3WFPciGE0Wg
-https://killercoda.com/killer-shell-cka/scenario/kubelet-misconfigured
-https://killercoda.com/sachin/course/CKA/kubelet-issue
+## Kube Controller Manager
+- [Controller Manager Misconfigured](https://killercoda.com/killer-shell-cka/scenario/kube-controller-manager-misconfigured)
+- [Controller Manager Issues](https://killercoda.com/sachin/course/CKA/controller-manager-issue)
 
-API-SERVER: 
-https://killercoda.com/killer-shell-cka/scenario/apiserver-crash
-https://killercoda.com/killer-shell-cka/scenario/apiserver-misconfigured
-
-KUBE-CONTROLLER-MANAGER:
-https://killercoda.com/killer-shell-cka/scenario/kube-controller-manager-misconfigured
-https://killercoda.com/sachin/course/CKA/controller-manager-issue
-
-KUBECTL: 
-https://killercoda.com/sachin/course/CKA/kubectl-issue
-https://killercoda.com/sachin/course/CKA/node-port-issue
-
-NODES: 
-https://killercoda.com/sachin/course/CKA/node-notready
-
-CONTROLPLANE:
-https://www.youtube.com/watch?v=z6XjbuRl6LE 
-
-WORKERNODE:
-https://www.youtube.com/watch?v=U6PRwv7dJ-U
-
+## General Troubleshooting
+- [Control Plane Troubleshooting Video](https://www.youtube.com/watch?v=z6XjbuRl6LE)
+- [Worker Node Troubleshooting Video](https://www.youtube.com/watch?v=U6PRwv7dJ-U)
