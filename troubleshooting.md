@@ -37,3 +37,9 @@ https://killercoda.com/sachin/course/CKA/node-port-issue
 NODES: 
 https://killercoda.com/sachin/course/CKA/node-notready
 
+CONTROLPLANE:
+https://www.youtube.com/watch?v=z6XjbuRl6LE 
+
+WORKERNODE:
+https://www.youtube.com/watch?v=U6PRwv7dJ-U
+
