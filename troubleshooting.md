@@ -12,7 +12,12 @@ crictl:
 https://kubernetes.io/docs/tasks/debug/debug-cluster/crictl/
 
 
-KUBELET: 
+
+KUBELET:
+Maintenance: 
+https://killercoda.com/chadmcrowell/course/cka/upgrade-kubelet
+
+Troubleshoot:
 https://www.youtube.com/watch?v=3WFPciGE0Wg
 https://killercoda.com/killer-shell-cka/scenario/kubelet-misconfigured
 https://killercoda.com/sachin/course/CKA/kubelet-issue
