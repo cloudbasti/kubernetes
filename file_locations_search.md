@@ -1,3 +1,5 @@
+kubectl taint nodes foo key=value:effect
+
 Persistent Volume PLUS Node Affinity 
 
 search: volume
